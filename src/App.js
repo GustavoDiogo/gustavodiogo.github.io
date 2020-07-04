@@ -1,0 +1,43 @@
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
+import Home from './components/Home';
+import NavBar from './components/NavBar';
+import QuemSouEu from './components/QuemSouEu';
+import './App.css';
+import { Helmet } from 'react-helmet';
+
+const defaultTheme = createMuiTheme({
+  palette: {
+    primary: {
+      main: "#00729c",
+    },
+  },
+  typography: {
+    fontDisplay: "justify",
+    button: {
+      fontFamily: 'Arial',
+      color: "white",
+    },
+  },
+});
+
+const App = () => {
+
+  return (
+    <ThemeProvider theme={defaultTheme}>
+      <Helmet>
+        <title> GDDev - Gustavo Diogo Dev</title>
+      </Helmet>
+      <Router>
+        <NavBar />
+        <Switch>
+          <Route path="/quem-sou-eu" component={QuemSouEu} />
+          <Route path="/" component={Home} />
+        </Switch>
+      </Router>
+    </ThemeProvider>
+  );
+}
+
+export default App;
