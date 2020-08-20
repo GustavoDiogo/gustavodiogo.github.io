@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.e68e0157.chunk.js",
-    "main.js.map": "/static/js/main.e68e0157.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8c8ae385.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8c8ae385.js.map",
-    "static/js/2.d0a0f88e.chunk.js": "/static/js/2.d0a0f88e.chunk.js",
-    "static/js/2.d0a0f88e.chunk.js.map": "/static/js/2.d0a0f88e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8de4e49c847a5e82ff22f26100211863.js": "/precache-manifest.8de4e49c847a5e82ff22f26100211863.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d0a0f88e.chunk.js.LICENSE.txt": "/static/js/2.d0a0f88e.chunk.js.LICENSE.txt",
-    "static/media/fotoQuemSouEu.jpg": "/static/media/fotoQuemSouEu.113e8f15.jpg"
+    "main.css": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gustavodiogo.github.io/static/js/main.fd7b112e.chunk.js",
+    "main.js.map": "/gustavodiogo.github.io/static/js/main.fd7b112e.chunk.js.map",
+    "runtime-main.js": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js",
+    "runtime-main.js.map": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js.map",
+    "static/js/2.d0a0f88e.chunk.js": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js",
+    "static/js/2.d0a0f88e.chunk.js.map": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.map",
+    "index.html": "/gustavodiogo.github.io/index.html",
+    "precache-manifest.ab909d1bd368ac2f64df0ef89063d858.js": "/gustavodiogo.github.io/precache-manifest.ab909d1bd368ac2f64df0ef89063d858.js",
+    "service-worker.js": "/gustavodiogo.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d0a0f88e.chunk.js.LICENSE.txt": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.LICENSE.txt",
+    "static/media/fotoQuemSouEu.jpg": "/gustavodiogo.github.io/static/media/fotoQuemSouEu.113e8f15.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c8ae385.js",
+    "static/js/runtime-main.826e5684.js",
     "static/js/2.d0a0f88e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e68e0157.chunk.js"
+    "static/js/main.fd7b112e.chunk.js"
   ]
 }
