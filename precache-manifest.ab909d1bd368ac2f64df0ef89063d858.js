@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5d36ea2752f46c16b27ab732b43302a",
+    "revision": "16671698b5068c46bc645e3509f92ae6",
     "url": "/gustavodiogo.github.io/index.html"
   },
   {
-    "revision": "aee95809954a4381f649",
+    "revision": "b4e72128578c8e7caaf5",
     "url": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aee95809954a4381f649",
-    "url": "/gustavodiogo.github.io/static/js/main.2023fc0b.chunk.js"
+    "revision": "b4e72128578c8e7caaf5",
+    "url": "/gustavodiogo.github.io/static/js/main.fd7b112e.chunk.js"
   },
   {
     "revision": "186c930766d10b049b93",
