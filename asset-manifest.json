@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gustavodiogo.github.io/static/js/main.fd7b112e.chunk.js",
-    "main.js.map": "/gustavodiogo.github.io/static/js/main.fd7b112e.chunk.js.map",
+    "main.js": "/gustavodiogo.github.io/static/js/main.2023fc0b.chunk.js",
+    "main.js.map": "/gustavodiogo.github.io/static/js/main.2023fc0b.chunk.js.map",
     "runtime-main.js": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js",
     "runtime-main.js.map": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js.map",
     "static/js/2.d0a0f88e.chunk.js": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js",
     "static/js/2.d0a0f88e.chunk.js.map": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.map",
     "index.html": "/gustavodiogo.github.io/index.html",
-    "precache-manifest.ab909d1bd368ac2f64df0ef89063d858.js": "/gustavodiogo.github.io/precache-manifest.ab909d1bd368ac2f64df0ef89063d858.js",
+    "precache-manifest.05484ecb7e89b99078679ab2f586558a.js": "/gustavodiogo.github.io/precache-manifest.05484ecb7e89b99078679ab2f586558a.js",
     "service-worker.js": "/gustavodiogo.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d0a0f88e.chunk.js.LICENSE.txt": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.826e5684.js",
     "static/js/2.d0a0f88e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fd7b112e.chunk.js"
+    "static/js/main.2023fc0b.chunk.js"
   ]
 }
