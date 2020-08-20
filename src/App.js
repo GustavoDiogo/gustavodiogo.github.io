@@ -32,8 +32,8 @@ const App = () => {
       <Router>
         <NavBar />
         <Switch>
-          <Route path="/quem-sou-eu" component={QuemSouEu} />
-          <Route path="/" component={Home} />
+          <Route path="/quem-sou-eu" exact component={QuemSouEu} />
+          <Route path="/" exact component={Home} />
         </Switch>
       </Router>
     </ThemeProvider>
