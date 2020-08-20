@@ -28,7 +28,7 @@ const App = () => {
       <Helmet>
         <title> GDDev - Gustavo Diogo Dev</title>
       </Helmet>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <NavBar />
         <Switch>
           <Route path='/quem-sou-eu' exact component={QuemSouEu} />
