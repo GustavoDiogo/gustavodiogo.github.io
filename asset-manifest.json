@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gustavodiogo.github.io/static/js/main.86f1664a.chunk.js",
-    "main.js.map": "/gustavodiogo.github.io/static/js/main.86f1664a.chunk.js.map",
+    "main.js": "/gustavodiogo.github.io/static/js/main.c8c6af1c.chunk.js",
+    "main.js.map": "/gustavodiogo.github.io/static/js/main.c8c6af1c.chunk.js.map",
     "runtime-main.js": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js",
     "runtime-main.js.map": "/gustavodiogo.github.io/static/js/runtime-main.826e5684.js.map",
     "static/js/2.d0a0f88e.chunk.js": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js",
     "static/js/2.d0a0f88e.chunk.js.map": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.map",
     "index.html": "/gustavodiogo.github.io/index.html",
-    "precache-manifest.9807c9bb8fef3e3330255c6ecf42742e.js": "/gustavodiogo.github.io/precache-manifest.9807c9bb8fef3e3330255c6ecf42742e.js",
+    "precache-manifest.0c2c96ac92947e8663211a645add143d.js": "/gustavodiogo.github.io/precache-manifest.0c2c96ac92947e8663211a645add143d.js",
     "service-worker.js": "/gustavodiogo.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gustavodiogo.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d0a0f88e.chunk.js.LICENSE.txt": "/gustavodiogo.github.io/static/js/2.d0a0f88e.chunk.js.LICENSE.txt",
-    "static/media/fotoQuemSouEu.jpg": "/gustavodiogo.github.io/static/media/fotoQuemSouEu.113e8f15.jpg"
+    "static/media/fotoQuemSouEu.jpg": "/gustavodiogo.github.io/static/media/fotoQuemSouEu.a879995e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.826e5684.js",
     "static/js/2.d0a0f88e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.86f1664a.chunk.js"
+    "static/js/main.c8c6af1c.chunk.js"
   ]
 }
