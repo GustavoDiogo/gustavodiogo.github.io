@@ -26,7 +26,7 @@ const App = () => {
   return (
     <ThemeProvider theme={defaultTheme}>
       <Helmet>
-        <title> GDDev - Gustavo Diogo Dev</title>
+        <title>GDDev - Gustavo Diogo Dev</title>
       </Helmet>
       <Router>
         <NavBar />
