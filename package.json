@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "deploy": "gh-pages -d build",
+    "deploy": "SKIP_PREFLIGHT_CHECK=true react-scripts build && gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
